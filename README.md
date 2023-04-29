@@ -1,7 +1,7 @@
 # Authentication-Form
 
 Authentication Signup and Profile:
-- This is a web application that allows users to sign up with their first name, email, and password, and saves their information to local storage. Upon successful signup, the user is redirected to a profile page.
+- This is a web application that allows users to sign up with their name, email, and password, and saves their information to local storage. Upon successful signup, the user is redirected to a profile page.
 
 Features:
 - Signup form with validation for empty fields, password mismatch, and password format (requires at least 8 characters, 1 uppercase letter, 1 number, and 1 special character).
